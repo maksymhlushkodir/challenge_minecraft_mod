@@ -19,5 +19,4 @@ public class Main_12 {
             System.out.println("\nВорог НЕ переможений!");
         }
     }
-
 }

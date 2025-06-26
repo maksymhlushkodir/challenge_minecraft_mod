@@ -35,10 +35,6 @@ public class Main_Mini_Game {
             } else {
                 System.out.println("\nзомбі загинув! гравець переміг!");
             }
-
         }
     }
-
-
-
 }
