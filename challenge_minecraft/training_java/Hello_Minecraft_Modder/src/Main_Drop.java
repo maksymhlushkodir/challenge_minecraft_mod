@@ -28,6 +28,7 @@ public class Main_Drop {
     public static void dropLoot(Random rand) {
         int dropChance = rand.nextInt(100);
     }
+
     //public static void dropLoot(String mobName, Random rand) {
     //    int dropChance = rand.nextInt(100);
     //
