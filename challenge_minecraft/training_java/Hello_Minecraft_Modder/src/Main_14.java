@@ -1,4 +1,4 @@
-class Player {
+class OldPlayer_1 {
     String name;
     int health;
     int damage;
@@ -19,7 +19,7 @@ public class Main_14 {
     public static void main(String[] args) {
         // Player
 
-        Player player_1 = new Player();
+        OldPlayer_1 player_1 = new OldPlayer_1();
         player_1.name = "Maksym";
         player_1.health = 100;
         player_1.damage = 30;
