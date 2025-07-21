@@ -21,7 +21,7 @@ class Item_3 {
 
     @Override
     public String toString() {
-        return this.name + "[ " + this.type + ", " + this.rarity + ", " + this.magic + " ]";
+        return this.name + "[" + this.type + ", " + this.rarity + ", " + this.magic + "]";
     }
 }
 
